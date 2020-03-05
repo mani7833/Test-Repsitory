@@ -1,4 +1,0 @@
-merge
-rebase
-rebase2
-reestore
